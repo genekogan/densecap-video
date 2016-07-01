@@ -1,9 +1,6 @@
 This is a script for generating dense-captioned videos by merging frame-level dense captions produced by [Densecap](https://github.com/jcjohnson/densecap) by Justin Johnson, Andrej Karpathy, and Li Fei-Fei at Stanford Vision Lab. More info about densecap [here](http://cs.stanford.edu/people/karpathy/densecap/).
 
-This script was used to produce the following densecap videos:
-
-[Boston Dynamics Atlas Robot](https://vimeo.com/173025372)
-[Deepdream](https://vimeo.com/173062236/)
+This script was used to produce a densecap of the [Boston Dynamics Atlas Robot](https://vimeo.com/173025372)
 
 ## Instructions (TBD)
 
